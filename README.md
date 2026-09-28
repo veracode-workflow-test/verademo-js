@@ -76,10 +76,9 @@ The token is the user's username followed by an underscore and the md5 hash of t
 The API provides a few calls that also can reviewed on the automatically generated swagger overview under `http://{host}/public/`. It also contains a full swagger file in `/public/swagger.json` that can be used for dynamic API scanning, as well as a Postman Collection file in `/public/api_postman_collection.json`!
 <img src="https://github.com/veracode-demo-labs/verademo-javascript-api/blob/main/pictures/swagger_overview.png" width="800" />  
 If you run a POST request using this API, a JSON body is required (where applicable) and JSON data will be returned.  
-<img src="https://github.com/veracode-demo-labs/verademo-javascript-api/blob/main/pictures/insomnia_request.png" width="800" /> test
+<img src="https://github.com/veracode-demo-labs/verademo-javascript-api/blob/main/pictures/insomnia_request.png" width="800" />
   
 All calls to `admin` can only be do by the admin user, using the corresponding token to authenticate.  
 
 ## License
-![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
-te
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) test
