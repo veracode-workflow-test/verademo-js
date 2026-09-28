@@ -81,4 +81,4 @@ If you run a POST request using this API, a JSON body is required (where applica
 All calls to `admin` can only be do by the admin user, using the corresponding token to authenticate.  
 
 ## License
-![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) test
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
